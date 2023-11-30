@@ -1,0 +1,8 @@
+# Ignoro la libreria de Test porque no debe cambiar
+test/Test.cpp
+test/Test.h
+
+# Ignoro los ficheros generados
+*.log
+*_tmp
+*.exe
