@@ -3,6 +3,6 @@ test/Test.cpp
 test/Test.h
 
 # Ignoro los ficheros generados
-*.log
+*.log*
 *_tmp
 *.exe
